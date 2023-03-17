@@ -1,11 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaybadgurjar&label=Profile%20views&color=0e75b6&style=flat" alt="vijaybadgurjar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaybadgurjar" alt="vijaybadgurjar" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🔭 I’m currently working on [LifeSaver](https://github.com/vijaybadgurjar/LifeSaver)
 
