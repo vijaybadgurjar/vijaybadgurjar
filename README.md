@@ -5,11 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **data structure and algorithms**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijaybadgurjar](https://github.com/vijaybadgurjar)
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vijaybhdgujjar@gmail.com**
 
