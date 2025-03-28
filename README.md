@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijaybadgurjar](https://github.com/vijaybadgurjar)
 
-- 📫 How to reach me **vijaybhdgujjar@gmail.com**
+- 📫 How to reach me **vijaykumarbadgurjar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
